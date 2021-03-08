@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "111d1e37ef867a1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f5904240d5b74ea",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed300129cddea214",
+    "type": "split",
+    "children": [
+      {
+        "id": "66131fa5cd28b6b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49168a668ab6788d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e609758acbf56a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "162c34610a6802a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "070a65db9b8bc202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caca4e1f668bdb9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cabd700efca5efae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "README.md",
+    "400-力学/420-近场动力学/422-公式整理/线性化本构方程.md",
+    "400-力学/420-近场动力学/421-耦合方法/421-力学-近场动力学-耦合方法.md",
+    "400-力学/420-近场动力学/421-耦合方法/笔记-各向同性均匀材料的耦合有限元方法.md"
+  ]
+}
