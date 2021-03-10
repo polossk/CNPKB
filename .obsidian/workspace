@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "1f5904240d5b74ea",
+        "id": "49de7b2c442cfb50",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "400-力学/420-近场动力学/422-公式整理/线性化本构方程.md",
+            "mode": "source"
+          }
+        },
+        "group": "7853711dd732f186"
+      },
+      {
+        "id": "464111249b1f261e",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "400-力学/420-近场动力学/422-公式整理/线性化本构方程.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "7853711dd732f186"
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#anisotropic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "400-力学/420-近场动力学/422-公式整理/线性化本构方程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +97,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -92,12 +106,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
     "400-力学/420-近场动力学/422-公式整理/线性化本构方程.md",
+    "400-力学/420-近场动力学/422-公式整理/422-力学-近场动力学-公式整理.md",
+    "400-力学/420-近场动力学/421-耦合方法/文章笔记-2013-各向异性均匀材料的耦合方法.md",
+    "400-力学/420-近场动力学/421-耦合方法/文章笔记-2012-各向同性均匀材料的耦合方法.md",
+    "400-力学/420-近场动力学/421-耦合方法/文章笔记-2014-模拟具有预置裂纹的裂纹扩展.md",
+    "400-力学/420-近场动力学/421-耦合方法/笔记-各向同性均匀材料的耦合有限元方法.md",
     "400-力学/420-近场动力学/421-耦合方法/421-力学-近场动力学-耦合方法.md",
-    "400-力学/420-近场动力学/421-耦合方法/笔记-各向同性均匀材料的耦合有限元方法.md"
+    "README.md"
   ]
 }
