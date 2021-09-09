@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49de7b2c442cfb50",
+        "id": "a73bc5e6a2a849c2",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "400-力学/420-近场动力学/422-公式整理/线性化本构方程.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#anisotropic",
+                "query": "tag:#morphing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,12 +65,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400-力学/420-近场动力学/422-公式整理/线性化本构方程.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -96,14 +93,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "a73bc5e6a2a849c2",
   "lastOpenFiles": [
-    "400-力学/420-近场动力学/422-公式整理/线性化本构方程.md",
+    "400-力学/420-近场动力学/422-公式整理/Untitled.pdf",
+    "400-力学/420-近场动力学/422-公式整理/Untitled.md",
     "400-力学/420-近场动力学/422-公式整理/422-力学-近场动力学-公式整理.md",
-    "400-力学/420-近场动力学/421-耦合方法/文章笔记-2013-各向异性均匀材料的耦合方法.md",
-    "400-力学/420-近场动力学/421-耦合方法/文章笔记-2012-各向同性均匀材料的耦合方法.md",
-    "400-力学/420-近场动力学/421-耦合方法/文章笔记-2014-模拟具有预置裂纹的裂纹扩展.md",
+    "500-工具使用/510-科研绘图/511-inkscape-notes.md",
+    "500-工具使用/510-科研绘图/inkscape-notes.md",
+    "README.md",
     "400-力学/420-近场动力学/421-耦合方法/笔记-各向同性均匀材料的耦合有限元方法.md",
     "400-力学/420-近场动力学/421-耦合方法/421-力学-近场动力学-耦合方法.md",
-    "README.md"
+    "未命名.md",
+    "400-力学/420-近场动力学/422-公式整理/变邻域模型.pdf"
   ]
 }
