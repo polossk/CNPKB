@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "111d1e37ef867a1d",
+    "id": "87d7697624c0e3db",
     "type": "split",
     "children": [
       {
-        "id": "90e9cf77e69ca436",
+        "id": "a15add86c975e46a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "200-数学/210-数值方法/数值误差收敛阶.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#morphing",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,9 +65,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200-数学/210-数值方法/数值误差收敛阶.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -97,17 +93,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "90e9cf77e69ca436",
+  "active": "a15add86c975e46a",
   "lastOpenFiles": [
-    "200-数学/210-数值方法/数值误差收敛阶.md",
-    "200-数学/210-数值方法/Toeplitz 矩阵线性方程组快速算法.md",
-    "200-数学/210-数值方法/未命名.md",
-    "500-工具使用/510-科研工具/512-gmsh-notes.md",
-    "500-工具使用/510-科研工具/511-inkscape-notes.md",
-    "500-工具使用/510-科研工具/未命名.md",
-    "500-工具使用/510-科研绘图/511-inkscape-notes.md",
-    "400-力学/420-近场动力学/422-公式整理/线性化本构方程.md",
+    "500-工具使用/530-macOS操作系统/531-删除Dock顽固图标.md",
+    "300-编程/320-python及其相关库/321-PIL图像处理库.md",
+    "300-编程/310-系统环境编译相关/311-makefile-notes.md",
+    "README.md",
+    "600-基本环境搭建/610-macOS环境搭建/611-命令行工具.md",
     "400-力学/420-近场动力学/422-公式整理/Untitled.md",
-    "500-工具使用/520-基本办公/521-压缩工具.md"
+    "500-工具使用/520-基本办公/521-压缩工具.md",
+    "400-力学/420-近场动力学/422-公式整理/对偶邻域.md",
+    "400-力学/420-近场动力学/422-公式整理/变邻域模型.md",
+    "400-力学/420-近场动力学/422-公式整理/线性化本构方程.md"
   ]
 }

@@ -5,7 +5,7 @@
 ## 格式转换
 
 ```shell
-inkscape --export-type=png,pdf figure.svg
+inkscape --export-type=png,pdf figure.svg
 ```
 
 ## 输入数学公式

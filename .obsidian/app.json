@@ -1,8 +1,10 @@
 {
   "showFrontmatter": false,
   "promptDelete": false,
-  "alwaysUpdateLinks": true,
+  "alwaysUpdateLinks": false,
   "showLineNumber": true,
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true
 }

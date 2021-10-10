@@ -8,10 +8,45 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:400-力学/420-近场动力学",
+      "query": "path:100-GTD",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 14883356
+      }
+    },
+    {
+      "query": "path:200-数学",
+      "color": {
+        "a": 1,
+        "rgb": 16629615
+      }
+    },
+    {
+      "query": "path:300-编程",
+      "color": {
+        "a": 1,
+        "rgb": 11722634
+      }
+    },
+    {
+      "query": "path:400-力学",
+      "color": {
+        "a": 1,
+        "rgb": 3383340
+      }
+    },
+    {
+      "query": "path:500-工具使用",
+      "color": {
+        "a": 1,
+        "rgb": 10931939
+      }
+    },
+    {
+      "query": "path:600-基本环境搭建",
+      "color": {
+        "a": 1,
+        "rgb": 2062516
       }
     }
   ],
@@ -20,11 +55,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.69662921348315,
   "lineSizeMultiplier": 5,
-  "collapse-forces": false,
-  "centerStrength": 0.384615384615385,
-  "repelStrength": 8.03418803418803,
+  "collapse-forces": true,
+  "centerStrength": 0.146233974358974,
+  "repelStrength": 5.2991452991453,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.6539348226888229,
-  "close": false
+  "linkDistance": 110,
+  "scale": 1.062374444432876,
+  "close": true
 }
