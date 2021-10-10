@@ -3,3 +3,4 @@
 *.txt text eol=lf
 *.md text eol=lf
 *.json text eol=lf
+workspace text eol=lf
