@@ -1,4 +1,3 @@
-
 # 删除Dock顽固图标
 
 > tags: #macOS; #Dock

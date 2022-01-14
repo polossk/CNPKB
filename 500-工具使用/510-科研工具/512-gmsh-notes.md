@@ -2,6 +2,8 @@
 
 > tags: #mesh-generator; #gmsh;
 
+主要参考文档<a name="rref1"></a>\[[1](#ref1)\]。
+
 ## 基本图形绘制
 
 ### 椭圆曲线 Ellipse
@@ -38,7 +40,7 @@ Rotate { { expression-list }, { expression-list }, expression } { transform-list
 ```cpp
 // direction of the rotation axis := {axis_x, axis_y, axis_z}
 // piovt point := {piovt_x, piovt_y, piovt_z}
-Rotate { {axis_x, axis_y, axis_z}, {piovt_x, piovt_y, piovt_z}, angle}{ ... } 
+Rotate { {axis_x, axis_y, axis_z}, {piovt_x, piovt_y, piovt_z}, angle}{ ... }
 ```
 
 #### 样例
@@ -52,5 +54,4 @@ Rotate { {axis_x, axis_y, axis_z}, {piovt_x, piovt_y, piovt_z}, angle}{ ... }
 
 ## 参考文档
 
-1. 软件文档 <https://gmsh.info/doc/texinfo/gmsh.html>
-2. 
+<a name="ref1">\[1\]</a>[^](#rref1) Gmsh 软件文档 <https://gmsh.info/doc/texinfo/gmsh.html>

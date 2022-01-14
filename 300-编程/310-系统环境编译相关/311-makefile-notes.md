@@ -135,7 +135,7 @@ kill:
 
 ## 变量的赋值操作
 
-不同的赋值符有不同的含义<a name="rref1">[(1)](#ref1)</a>，可参考如下代码。
+不同的赋值符有不同的含义<a name="rref1"></a>\[[1](#ref1)\]，可参考如下代码。
 
 ```makefile
 VARIABLE = value  # lazy
@@ -146,9 +146,9 @@ VARIABLE += value # append
 
 ## 常用自动变量
 
-`make` 还提供了一些简单的内置变量<a name="rref2">[(2)](#ref2)</a>，诸如 `$(CC)` 表示默认的C编译器(cc)，`$(CXX)` 表示默认的 C++ 编译器。
+`make` 还提供了一些简单的内置变量<a name="rref2"></a>\[[2](#ref2)\]，诸如 `$(CC)` 表示默认的C编译器(cc)，`$(CXX)` 表示默认的 C++ 编译器。
 
-常见的自动变量<a name="rref3">[(3)](#ref3)</a>有这几个：`$@`，`$<`，`$^`，`$*`，分别表示，构建目标，第一个前置条件，所有前置条件，和匹配符%匹配的部分。
+常见的自动变量<a name="rref3"></a>\[[3](#ref3)\]有这几个：`$@`，`$<`，`$^`，`$*`，分别表示，构建目标，第一个前置条件，所有前置条件，和匹配符%匹配的部分。
 
 ```makefile
 a.txt: b.txt c.txt
@@ -199,12 +199,16 @@ else
 endif
 ```
 
+## 更多
+
+其他更多内容可以参考 make 文档<a name="rref4"></a>\[[4](#ref4)\]。
+
 ## Reference
 
-<a name="ref1">(1)</a>[^](#rref1): [Makefile variable assignment - stackoverflow](http://stackoverflow.com/questions/448910/makefile-variable-assignment)
+<a name="ref1">\[1\]</a>[^](#rref1): Makefile variable assignment - stackoverflow <http://stackoverflow.com/questions/448910/makefile-variable-assignment>
 
-<a name="ref2">(2)</a>[^](#rref2): [Implicit-Variables](https://www.gnu.org/software/make/manual/html_node/Implicit-Variables.html)
+<a name="ref2">\[2\]</a>[^](#rref2): Implicit-Variables <https://www.gnu.org/software/make/manual/html_node/Implicit-Variables.html>
 
-<a name="ref3">(3)</a>[^](#rref3): [Automatic-Variables](https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html)
+<a name="ref3">\[3\]</a>[^](#rref3): Automatic-Variables <https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html>
 
-<a name="ref4">(4)</a>: [GNU make](https://www.gnu.org/software/make/manual/html_node/index.html)
+<a name="ref4">\[4\]</a>[^](#rref4): GNU make <https://www.gnu.org/software/make/manual/html_node/index.html>

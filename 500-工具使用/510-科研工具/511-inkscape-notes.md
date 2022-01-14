@@ -2,6 +2,8 @@
 
 > tags: #svg; #format-converter; #inkscape;
 
+主要参考文档<a name="rref1"></a>\[[1](#ref1)\]。
+
 ## 格式转换
 
 ```shell
@@ -26,5 +28,4 @@ inkscape --export-type=png,pdf figure.svg
 
 ## 参考文档
 
-1. 命令行文档 <https://inkscape.org/doc/inkscape-man.html>
-2. 
+<a name="ref1">\[1\]</a>[^](#rref1) Inkscape 命令行文档 <https://inkscape.org/doc/inkscape-man.html>
