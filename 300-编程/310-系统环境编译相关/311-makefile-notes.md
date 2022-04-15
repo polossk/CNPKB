@@ -203,12 +203,12 @@ endif
 
 其他更多内容可以参考 make 文档<a name="rref4"></a>\[[4](#ref4)\]。
 
-## Reference
+## 参考文档
 
-<a name="ref1">\[1\]</a>[^](#rref1): Makefile variable assignment - stackoverflow <http://stackoverflow.com/questions/448910/makefile-variable-assignment>
+<a name="ref1">\[1\]</a>[^](#rref1) Makefile variable assignment - stackoverflow <http://stackoverflow.com/questions/448910/makefile-variable-assignment>
 
-<a name="ref2">\[2\]</a>[^](#rref2): Implicit-Variables <https://www.gnu.org/software/make/manual/html_node/Implicit-Variables.html>
+<a name="ref2">\[2\]</a>[^](#rref2) Implicit-Variables <https://www.gnu.org/software/make/manual/html_node/Implicit-Variables.html>
 
-<a name="ref3">\[3\]</a>[^](#rref3): Automatic-Variables <https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html>
+<a name="ref3">\[3\]</a>[^](#rref3) Automatic-Variables <https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html>
 
-<a name="ref4">\[4\]</a>[^](#rref4): GNU make <https://www.gnu.org/software/make/manual/html_node/index.html>
+<a name="ref4">\[4\]</a>[^](#rref4) GNU make <https://www.gnu.org/software/make/manual/html_node/index.html>

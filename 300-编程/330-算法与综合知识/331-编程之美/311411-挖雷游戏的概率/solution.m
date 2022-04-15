@@ -1,0 +1,13 @@
+clear all; clc;
+m = 16 * 16 - 15;
+n_ = 10 : 240;
+x_ = (m - n_ + 3) ./ (n_ - 2);
+omega_ = x_ .* 10 + 3;
+pb_ = 1 ./ omega_;
+pa_ = 2 .* x_ .* pb_;
+pc_ = (4 .* x_ + 0.6) .* pb_;
+h = figure();
+plot(n_, pa_, 'r-'); hold on;
+plot(n_, pb_, 'b-'); hold on;
+plot(n_, pc_, 'g-'); hold on;
+legend('P(A)', 'P(B)', 'P(C)');
