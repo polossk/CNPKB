@@ -13,7 +13,7 @@
 
 ## Toeplitz 矩阵
 
-设 n 阶 Toeplitz 矩阵
+设 $n$ 阶 Toeplitz 矩阵
 
 $$
 \mathbf T = (t_{ij})_{n \times n} = \begin{bmatrix}
@@ -67,7 +67,7 @@ $$
 
 ## Circulant matrix 循环矩阵
 
-设 n 阶 Circulant 矩阵
+设 $n$ 阶 Circulant 矩阵
 
 $$
 \mathbf C = (c_{ij})_{n \times n} \begin{bmatrix}
@@ -84,7 +84,7 @@ $$
 
 ## Toeplitz FFT
 
-设 n 阶 Toeplitz 矩阵
+设 $n$ 阶 Toeplitz 矩阵
 
 $$
 \mathbf T_n = (t_{ij})_{n \times n} = \begin{bmatrix}
@@ -96,7 +96,7 @@ t_{1-n} & t_{2-n} & \cdots & t_{-1} & t_0
 \end{bmatrix}
 $$
 
-构造另一个 n 阶 Toeplitz 矩阵
+构造另一个 $n$ 阶 Toeplitz 矩阵
 
 $$
 \mathbf B_n = \begin{bmatrix}
@@ -108,7 +108,7 @@ t_1 & t_2 & \cdots & t_{n-1} & 0
 \end{bmatrix}
 $$
 
-从而构造 2n 阶的循环矩阵
+从而构造 $2n$ 阶的循环矩阵
 
 $$
 \mathbf C_{2n} = \begin{bmatrix}
