@@ -49,7 +49,9 @@
 ## 参考文档
 
 <a name="ref1">\[1\]</a>[^](#rref1) Specify encoding to use in code generated from Simulink models - MATLAB slCharacterEncoding <https://www.mathworks.com/help/simulink/slref/slcharacterencoding.html>
-<a name="ref2">\[2\]</a>[^](#rref2) How do I get my MATLAB editor to read UTF-8 characters? UTF-8 characters in blank squares in editors, but in the command window and workspace works fine. - MATLAB Answers <https://www.mathworks.com/matlabcentral/answers/280988-how-do-i-get-my-matlab-editor-to-read-utf-8-characters-utf-8-characters-in-blank-squares-in-editors/>
-<a name="ref3">\[3\]</a>[^](#rref3) Startup and Shutdown - MATLAB & Simulink <https://www.mathworks.com/help/matlab/startup-and-shutdown.html>
-<a name="ref4">\[4\]</a>[^](#rref4) Start MATLAB program from macOS Terminal - MATLAB <https://www.mathworks.com/help/matlab/ref/matlabmacos.html>
 
+<a name="ref2">\[2\]</a>[^](#rref2) How do I get my MATLAB editor to read UTF-8 characters? UTF-8 characters in blank squares in editors, but in the command window and workspace works fine. - MATLAB Answers <https://www.mathworks.com/matlabcentral/answers/280988-how-do-i-get-my-matlab-editor-to-read-utf-8-characters-utf-8-characters-in-blank-squares-in-editors/>
+
+<a name="ref3">\[3\]</a>[^](#rref3) Startup and Shutdown - MATLAB & Simulink <https://www.mathworks.com/help/matlab/startup-and-shutdown.html>
+
+<a name="ref4">\[4\]</a>[^](#rref4) Start MATLAB program from macOS Terminal - MATLAB <https://www.mathworks.com/help/matlab/ref/matlabmacos.html>
