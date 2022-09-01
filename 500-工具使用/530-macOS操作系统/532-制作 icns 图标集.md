@@ -56,3 +56,17 @@
 ## 参考文档
 
 <a name="ref1">\[1\]</a>[^](#rref1) App Icons - Foundations - Human Interface Guidelines - Design - Apple Developer <https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/>
+
+
+```shell
+sips -z 16 16 icon.png -o windows/icon_16.png
+sips -z 32 32 icon.png -o windows/icon_32.png
+sips -z 48 48 icon.png -o windows/icon_48.png
+sips -z 128 128 icon.png -o windows/icon_128.png
+sips -z 256 256 icon.png -o windows/icon_256.png
+sips -z 512 512 icon.png -o windows/icon_512.png
+```
+
+```shell
+icotool -c -o icon.ico icon_16.png icon_32.png icon_48.png icon_128.png icon_256.png icon_512.png
+```

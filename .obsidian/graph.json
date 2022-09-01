@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:100-GTD",
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 2062516
       }
+    },
+    {
+      "query": "path:700-检查清单",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 6,
   "linkStrength": 1,
   "linkDistance": 135,
-  "scale": 0.9018714022409798,
-  "close": false
+  "scale": 0.2987417598359482,
+  "close": true
 }
