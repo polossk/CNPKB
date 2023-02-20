@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "9f1c02f19a5591da",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee339604b4684a96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e93678fa95af59a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e674cd0af4962cb3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3e32524d9ee42d98",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e8d3bb3c8c30f563",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "29698694f1d7ce66",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d42bde49b1dd120c",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7edfae8e5734a04a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dc758d4c5509a59a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6e00e1cf611a7309",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a974d7e8ff70308f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "1e93678fa95af59a",
+  "lastOpenFiles": [
+    "500-工具使用/530-macOS操作系统/531-删除 Dock 顽固图标.md",
+    "600-基本环境搭建/610-macOS环境搭建/611-命令行工具.md",
+    "300-编程/340-MATLAB及其相关工具/341-MATLAB配置手册.md",
+    "300-编程/310-系统环境编译相关/312-Git-notes.md",
+    "300-编程/310-系统环境编译相关/311-makefile-notes.md"
+  ]
+}
