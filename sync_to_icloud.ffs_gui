@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="17">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>false</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>*/._*</Item>
+            <Item>*/.DocumentRevisions-V100/</Item>
+            <Item>*/.DS_Store</Item>
+            <Item>*/.fseventsd/</Item>
+            <Item>*/.Spotlight-V100/</Item>
+            <Item>*/.TemporaryItems/</Item>
+            <Item>*/.Trashes/</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>/Users/polossk/Library/CloudStorage/OneDrive-个人/Knowledge-Base</Left>
+            <Right>/Users/polossk/Library/Mobile Documents/iCloud~md~obsidian/Documents/Knowledge-Base</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <Gui>
+        <GridViewType>Action</GridViewType>
+    </Gui>
+</FreeFileSync>

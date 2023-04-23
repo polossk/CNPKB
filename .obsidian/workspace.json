@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "de7f44020d7dd04e",
+        "id": "e62a3115d7ea7038",
         "type": "tabs",
         "children": [
           {
-            "id": "14be657f51c724b5",
+            "id": "c20c9fcad92d2f98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500-工具使用/510-科研工具/511-inkscape-notes.md",
+                "file": "300-编程/310-系统环境编译相关/312-Git-notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "ce3d6e6ffc368491",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "300-编程/310-系统环境编译相关/312-Git-notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,26 +109,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ce3d6e6ffc368491",
+  "active": "c20c9fcad92d2f98",
   "lastOpenFiles": [
-    "500-工具使用/510-科研工具/514-Tecplot技巧/配置 RLM 激活服务器.md",
+    "300-编程/310-系统环境编译相关/313-Cygwin-MinGW-notes.md",
+    "300-编程/320-python及其相关库/322-PIL图像处理库.md",
+    "300-编程/340-MATLAB及其相关工具/341-MATLAB配置手册.md",
+    "300-编程/310-系统环境编译相关/311-makefile-notes.md",
+    "300-编程/310-系统环境编译相关/311-makefile-notes_副本.md",
+    "images/2021/11/iTerm2-final.png",
+    "300-编程/320-python及其相关库/321-Conda配置手册.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "500-工具使用/550-图像处理工具/551-Photoshop自动化扫描件增强.md",
+    "500-工具使用/520-基本办公/521-压缩工具.md",
     "500-工具使用/510-科研工具/511-inkscape-notes.md",
+    "500-工具使用/510-科研工具/514-Tecplot技巧/配置 RLM 激活服务器.md",
     "500-工具使用/540-文档办公/541-文档扫描归档.md",
     "300-编程/310-系统环境编译相关/312-Git-notes.md",
-    "300-编程/310-系统环境编译相关/311-makefile-notes.md",
-    "600-基本环境搭建/610-macOS环境搭建/611-命令行工具.md",
-    "300-编程/320-python及其相关库/321-Conda配置手册.md",
-    "500-工具使用/550-图像处理工具/551-Photoshop自动化扫描件增强.md",
-    "300-编程/320-python及其相关库/322-PIL图像处理库.md",
-    "300-编程/330-算法与综合知识/331-编程之美/311411-挖雷游戏的概率/311411-挖雷游戏的概率.md"
+    "600-基本环境搭建/610-macOS环境搭建/611-命令行工具.md"
   ]
 }

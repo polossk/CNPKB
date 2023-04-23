@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ee339604b4684a96",
+        "id": "dfd4c6440747bb62",
         "type": "tabs",
         "children": [
           {
-            "id": "1e93678fa95af59a",
+            "id": "cc58c67728c1017a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -113,8 +113,9 @@
     ],
     "currentTab": 0
   },
-  "active": "1e93678fa95af59a",
+  "active": "cc58c67728c1017a",
   "lastOpenFiles": [
+    "200-数学/210-数值方法/数值误差收敛阶.md",
     "500-工具使用/530-macOS操作系统/531-删除 Dock 顽固图标.md",
     "600-基本环境搭建/610-macOS环境搭建/611-命令行工具.md",
     "300-编程/340-MATLAB及其相关工具/341-MATLAB配置手册.md",
