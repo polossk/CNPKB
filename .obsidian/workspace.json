@@ -1,23 +1,18 @@
 {
   "main": {
-    "id": "87d7697624c0e3db",
+    "id": "bba4d2d01f71195a",
     "type": "split",
     "children": [
       {
-        "id": "e62a3115d7ea7038",
+        "id": "28e0b3cace003a2e",
         "type": "tabs",
         "children": [
           {
-            "id": "c20c9fcad92d2f98",
+            "id": "fe07c3c1a5294a6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300-编程/310-系统环境编译相关/312-Git-notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -26,15 +21,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ed300129cddea214",
+    "id": "f4571fbbfac3256f",
     "type": "split",
     "children": [
       {
-        "id": "66131fa5cd28b6b1",
+        "id": "09468e6d8313b73a",
         "type": "tabs",
+        "dimension": 77.47747747747748,
         "children": [
           {
-            "id": "49168a668ab6788d",
+            "id": "f732d1b0ffcbbd3f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +40,22 @@
             }
           },
           {
-            "id": "0e609758acbf56a0",
+            "id": "5a6c3f3d76d00c40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8a11b5ef7cb0d001",
+        "type": "tabs",
+        "dimension": 22.52252252252252,
+        "children": [
+          {
+            "id": "761a2ce9bcdeb00f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,22 +76,21 @@
     "width": 300
   },
   "right": {
-    "id": "162c34610a6802a1",
+    "id": "8ffc5a903d1a9d11",
     "type": "split",
     "children": [
       {
-        "id": "070a65db9b8bc202",
+        "id": "cf979fdc46bfb8a6",
         "type": "tabs",
         "children": [
           {
-            "id": "caca4e1f668bdb9b",
+            "id": "a4f11e25e96d95b9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300-编程/310-系统环境编译相关/312-Git-notes.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -90,7 +100,7 @@
             }
           },
           {
-            "id": "cabd700efca5efae",
+            "id": "8f8febeef158a066",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,23 +128,46 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c20c9fcad92d2f98",
+  "active": "fe07c3c1a5294a6d",
   "lastOpenFiles": [
-    "300-编程/310-系统环境编译相关/313-Cygwin-MinGW-notes.md",
-    "300-编程/320-python及其相关库/322-PIL图像处理库.md",
-    "300-编程/340-MATLAB及其相关工具/341-MATLAB配置手册.md",
-    "300-编程/310-系统环境编译相关/311-makefile-notes.md",
-    "300-编程/310-系统环境编译相关/311-makefile-notes_副本.md",
-    "images/2021/11/iTerm2-final.png",
-    "300-编程/320-python及其相关库/321-Conda配置手册.md",
+    "400-力学/420-近场动力学/422-公式整理/变邻域模型.md",
+    "未命名.md",
     "未命名 1.canvas",
-    "未命名.canvas",
-    "500-工具使用/550-图像处理工具/551-Photoshop自动化扫描件增强.md",
+    "未命名 2.canvas",
+    "100-GTD/100-笔记模板.md",
+    "300-编程/340-Python及其相关库/343-PDB调试器.md",
+    "sync.ffs_lock",
+    "300-编程/330-C++及其相关库/332-C++Template模板编程/33201-模板友元声明.md",
+    "300-编程/340-Python及其相关库/342-PIL图像处理库.md",
+    "300-编程/340-Python及其相关库/341-Conda配置手册.md",
+    "300-编程/350-MATLAB及其相关工具/351-MATLAB配置手册.md",
+    "300-编程/360-Python",
+    "200-数学/210-数值方法/Toeplitz 矩阵线性方程组快速算法.md",
     "500-工具使用/520-基本办公/521-压缩工具.md",
-    "500-工具使用/510-科研工具/511-inkscape-notes.md",
-    "500-工具使用/510-科研工具/514-Tecplot技巧/配置 RLM 激活服务器.md",
+    "500-工具使用/530-macOS操作系统/532-制作 icns 图标集.md",
+    "100-笔记模板.md",
+    "笔记模板.md",
+    "600-基本环境搭建/610-macOS环境搭建/611-命令行工具.md",
+    "500-工具使用/530-macOS操作系统/533-清理 macOS 图标缓存.md",
     "500-工具使用/540-文档办公/541-文档扫描归档.md",
+    "200-数学/211-数学工具/张量基础.md",
+    "200-数学/210-数值方法/数值误差收敛阶.md",
+    "500-工具使用/510-科研工具/512-Gmsh/Gmsh M1 安装说明.md",
+    "500-工具使用/530-macOS操作系统/531-删除 Dock 顽固图标.md",
     "300-编程/310-系统环境编译相关/312-Git-notes.md",
-    "600-基本环境搭建/610-macOS环境搭建/611-命令行工具.md"
+    "300-编程/350-C++及其相关库/352-C++Template模板编程/35201-模板特化.md",
+    "300-编程/350-C++及其相关库/352-C++Template模板编程/35201-模板友元函数.md",
+    "300-编程/330-C++及其相关库/332-C++Template模板编程/test33201",
+    "300-编程/330-C++及其相关库/332-C++Template模板编程/test33201.cpp",
+    "300-编程/350-C++及其相关库/352-C++Template模板编程/01-模板特化.md",
+    "300-编程/350-C++及其相关库/352-C++Template模板编程/模板特化.md",
+    "300-编程/350-C++及其相关库/352-C++Template模板编程/352-C++Template模板编程.md",
+    "300-编程/330-C++及其相关库/332-C++Template模板编程",
+    "300-编程/350-C++及其相关库/未命名文件夹",
+    "300-编程/330-C++及其相关库",
+    "300-编程/350-Cpp及其相关库",
+    "300-编程/未命名文件夹",
+    "未命名.canvas",
+    "images/2021/11/iTerm2-final.png"
   ]
 }

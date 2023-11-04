@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FreeFileSync XmlType="GUI" XmlFormat="17">
+<FreeFileSync XmlType="GUI" XmlFormat="18">
+    <Notes/>
     <Compare>
         <Variant>TimeAndSize</Variant>
         <Symlinks>Exclude</Symlinks>
         <IgnoreTimeShift/>
     </Compare>
     <Synchronize>
-        <Variant>Update</Variant>
+        <Variant>TwoWay</Variant>
         <DetectMovedFiles>false</DetectMovedFiles>
         <DeletionPolicy>RecycleBin</DeletionPolicy>
         <VersioningFolder Style="Replace"/>
@@ -25,9 +26,9 @@
             <Item>*/.Trashes/</Item>
             <Item>/.git/</Item>
         </Exclude>
-        <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
         <SizeMax Unit="None">0</SizeMax>
+        <TimeSpan Type="None">0</TimeSpan>
     </Filter>
     <FolderPairs>
         <Pair>
