@@ -1,6 +1,6 @@
 # Makefile 使用备注
 
-> tags: #makefile;
+> tags: #Makefile;
 
 ## 跨平台适用的 LaTeX 编译脚本
 

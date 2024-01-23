@@ -1,6 +1,6 @@
 # Conda 配置手册
 
-> tags: #python; #Conda; #TUNA; #config;
+> tags: #Python; #Conda; #TUNA; #Configration-Manual;
 
 Anaconda <a name="rref1"></a>\[[1](#ref1)\] 是一个集成了绝大多数与科学计算相关的第三方库的一个 Python 发行版本。底层通过 conda 来进行虚拟环境控制，可以实现不同 Python 版本与不同库之间的相互隔离与独立维护，从而简化了后期的管理与部署操作。除了最常用的科学计算库 numpy，scipy，matplotlib 之外，同时安装了 Jupyter Notebook，Spyder，Anaconda Navigator 等相关工具。
 

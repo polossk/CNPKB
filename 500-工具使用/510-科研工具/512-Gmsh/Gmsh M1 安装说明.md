@@ -1,6 +1,6 @@
 # Gmsh M1 安装说明
 
-> tags: #macOS; #M1; #gmsh; #Homebrew;
+> tags: #macOS; #M1; #Gmsh; #Homebrew;
 
 ## TL; DR
 

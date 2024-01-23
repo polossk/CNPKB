@@ -1,6 +1,12 @@
+---
+title: Gmsh 使用备注
+tags:
+  - Mesh-Generator
+  - Gmsh
+---
 # Gmsh 使用备注
 
-> tags: #mesh-generator; #gmsh;
+> tags: #Mesh-Generator; #Gmsh;
 
 主要参考文档<a name="rref1"></a>\[[1](#ref1)\]。
 

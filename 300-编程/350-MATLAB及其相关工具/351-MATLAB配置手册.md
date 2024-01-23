@@ -1,6 +1,6 @@
 # MATLAB 配置手册
 
-> tags: #matlab; #utf-8; #config;
+> tags: #Matlab; #UTF-8; #Configration-Manual;
 
 ## 将 MATLAB 的字符集编码更改为 UTF-8
 

@@ -1,6 +1,6 @@
 # Toeplitz 矩阵线性方程组快速算法
 
-> tags: #fft; #toeplitz;
+> tags: #FFT; #Toeplitz; #Linear-System-Solution;
 
 ## TL; DR
 
@@ -39,7 +39,7 @@ $$
 0 & \cdots & 1 & 0 \\
 \vdots &  & \vdots & \vdots \\
 1 & \cdots & 0 & 0
-\end{bmatrix}_{n \times n}, 
+\end{bmatrix}_{n \times n},
 $$
 
 Toeplitz 矩阵具有下面的性质

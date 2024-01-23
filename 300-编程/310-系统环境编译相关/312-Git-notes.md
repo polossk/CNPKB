@@ -1,6 +1,6 @@
 # Git 屏蔽所有 .DS_Store 文件
 
-> tags: #git; #macOS; #.DS_Store;
+> tags: #Git; #macOS; #.DS_Store;
 
 ## `.DS_Store` 是什么
 

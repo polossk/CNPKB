@@ -1,6 +1,6 @@
 # Inkscape 使用备注
 
-> tags: #svg; #format-converter; #inkscape;
+> tags: #SVG; #Format-Converter; #Inkscape;
 
 主要参考文档<a name="rref1"></a>\[[1](#ref1)\]。
 
