@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:100-GTD",
@@ -61,12 +61,12 @@
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.25,
-  "lineSizeMultiplier": 2,
+  "lineSizeMultiplier": 2.6,
   "collapse-forces": false,
-  "centerStrength": 0.15,
+  "centerStrength": 0.3,
   "repelStrength": 6,
   "linkStrength": 1,
   "linkDistance": 135,
-  "scale": 1.2772902977492029,
+  "scale": 0.85,
   "close": true
 }
